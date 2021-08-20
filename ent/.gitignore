@@ -1,0 +1,10 @@
+*
+!.gitignore
+!generate.go
+!include.go
+!schema
+!schema/*
+!template
+!template/*
+!*_custom.go
+!custom_*.go
