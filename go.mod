@@ -1,6 +1,6 @@
 module ent_test
 
-go 1.18
+go 1.20
 
 require (
 	entgo.io/ent v0.12.3
